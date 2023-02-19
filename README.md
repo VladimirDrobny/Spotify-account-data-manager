@@ -29,6 +29,7 @@
 - Because Spotify API doesn't support getting followed users, also put a list of user ids, who you want to automatically follow whensyncing accounts
 
 Sample settings:
+
 '''console
 [SPOTIFY\_API]
 client\_id = h8g5h23487f695234y768dfg784327gf
@@ -46,7 +47,7 @@ YOU MAY BE ALREADY LOGGED IN TO THE ACCOUNT YOU LAST ACCESSED, AND MAY NEED TO L
 
 **SYNC command**
 
-'''console
+'''
 $ python3 main.py -s
 '''
 
