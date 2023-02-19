@@ -31,13 +31,13 @@
 Sample settings:
 
 ```
-[SPOTIFY\_API]
-client\_id = h8g5h23487f695234y768dfg784327gf
-client\_secret = 8932hg89h3248fuh792h8f3n4dnxn98a
-redirect\_uri = http://localhost:8888/SpotifySync/
+[SPOTIFY_API]
+client_id = h8g5h23487f695234y768dfg784327gf
+client_secret = 8932hg89h3248fuh792h8f3n4dnxn98a
+redirect_uri = http://localhost:8888/SpotifySync/
 
-[USER\_SETTINGS]
-forced\_follow\_user\_list = ["89fh43279fg9873h2fg7d8g81"]
+[USER_SETTINGS]
+forced_follow_user_list = ["89fh43279fg9873h2fg7d8g81"]
 ```
 
 ### Commands
