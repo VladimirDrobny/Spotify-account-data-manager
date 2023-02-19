@@ -30,7 +30,7 @@
 
 Sample settings:
 
-'''console
+```
 [SPOTIFY\_API]
 client\_id = h8g5h23487f695234y768dfg784327gf
 client\_secret = 8932hg89h3248fuh792h8f3n4dnxn98a
@@ -38,7 +38,7 @@ redirect\_uri = http://localhost:8888/SpotifySync/
 
 [USER\_SETTINGS]
 forced\_follow\_user\_list = ["89fh43279fg9873h2fg7d8g81"]
-'''
+```
 
 ### Commands
 
@@ -47,16 +47,16 @@ YOU MAY BE ALREADY LOGGED IN TO THE ACCOUNT YOU LAST ACCESSED, AND MAY NEED TO L
 
 **SYNC command**
 
-'''
+```console
 $ python3 main.py -s
-'''
+```
 
 - Gets all data from SAMPLE account, and transfers it to TARGET account. SAMPLE account doesn't get affected. Data from TARGET account doesn't get deleted, only more data is added on top.
 
 **WIPE command**
 
-'''console
+```console
 $ python3 main.py -w
-'''
+```
 
 - Wipes ALL data from an account.
