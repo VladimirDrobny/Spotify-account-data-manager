@@ -43,6 +43,7 @@ forced\_follow\_user\_list = ["89fh43279fg9873h2fg7d8g81"]
 ### Commands
 
 **All of the following commands should open a login dialogue in your browser. The console prints which account it want you to log into (SAMPLE or TARGET), read it.
+
 YOU MAY BE ALREADY LOGGED IN TO THE ACCOUNT YOU LAST ACCESSED, AND MAY NEED TO LOG OUT (by clicking on 'Not you?'). After logging into the correct account, you will still have to click AGREE.**
 
 **SYNC command**
